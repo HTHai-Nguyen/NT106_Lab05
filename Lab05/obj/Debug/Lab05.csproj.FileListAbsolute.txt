@@ -1,0 +1,10 @@
+D:\Studyspace\WindowsForms\Lab05\Lab05\bin\Debug\Lab05.exe.config
+D:\Studyspace\WindowsForms\Lab05\Lab05\bin\Debug\Lab05.exe
+D:\Studyspace\WindowsForms\Lab05\Lab05\bin\Debug\Lab05.pdb
+D:\Studyspace\WindowsForms\Lab05\Lab05\obj\Debug\Lab05.csproj.AssemblyReference.cache
+D:\Studyspace\WindowsForms\Lab05\Lab05\obj\Debug\Lab05.Form1.resources
+D:\Studyspace\WindowsForms\Lab05\Lab05\obj\Debug\Lab05.Properties.Resources.resources
+D:\Studyspace\WindowsForms\Lab05\Lab05\obj\Debug\Lab05.csproj.GenerateResource.cache
+D:\Studyspace\WindowsForms\Lab05\Lab05\obj\Debug\Lab05.csproj.CoreCompileInputs.cache
+D:\Studyspace\WindowsForms\Lab05\Lab05\obj\Debug\Lab05.exe
+D:\Studyspace\WindowsForms\Lab05\Lab05\obj\Debug\Lab05.pdb
